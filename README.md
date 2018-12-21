@@ -16,7 +16,8 @@ http://docs.python-guide.org/en/latest/starting/install3/osx/
 
 2. The script can be executed from the command line like so:
 
-`python3 clearbit.py "outputfilename(optional)"`
+`python3 clearbit.py "outputfilename"`
+
 eg: `python3 clearbit.py "company_domain_mapping"`
 
 3. The outputfilename arguement is optional. If it is not specified, the default output filename will be company_domain_mapping.csv

@@ -1,6 +1,6 @@
 # Setup and execution instructions
 
-*********Important: The script requires python3 for successful execution**********
+*********Important: The script requires python3 for successful execution*********
 
 ## Setup
 
